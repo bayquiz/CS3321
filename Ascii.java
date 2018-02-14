@@ -1,3 +1,5 @@
+// This creates an ascii array ... its index is its asii char
+
 public class Ascii {
     public static void main (String args []) {
         char [] ascii = new char[128];
